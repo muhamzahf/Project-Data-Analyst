@@ -1,4 +1,4 @@
-![6](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/51bc354b-02ff-4fb9-b14f-56dd2f8447f6)# Project-Data-Analyst
+# Project-Data-Analyst
 
 Repositori Submission ini bersi project data analytics.
 
