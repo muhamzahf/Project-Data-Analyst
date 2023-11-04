@@ -186,7 +186,7 @@ st.subheader('Seasonly Rentals')
 
 fig, ax = plt.subplots(figsize=(16, 8))
 
-sns.barplot(
+sns.pointplot(
     x='season',
     y='registered',
     data=season_rent_df,
@@ -195,7 +195,7 @@ sns.barplot(
     ax=ax
 )
 
-sns.barplot(
+sns.pointplot(
     x='season',
     y='casual',
     data=season_rent_df,
