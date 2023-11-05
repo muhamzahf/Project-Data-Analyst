@@ -54,7 +54,7 @@ Repositori Submission ini bersi project data analytics.
 ![3](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/18f8c9f4-57d2-45b5-88a9-7dd652fdbcff)
 4. Klik button play hijau lalu pilih _open terminal_.
 5. Masuk ke direkori file project **Dashboard.py** lalu install _pip install scikit-learn_ dan _pip install streamlit_.
-6. Jika sudah ter-install dengan baik lalu buka dashboard dengan _streamlit run main.py
+6. Jika sudah ter-install dengan baik lalu buka dashboard dengan _streamlit run Dashboard.py_.
 ![5](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/771854a8-fdd6-490f-a20a-d7404e30357c)
 ![Streamlit 1](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/cc00843e-a15a-46f9-b2f8-d4bed750f2b2)
 7. Buat akun dan repository baru di Github, lalu tarik beberapa folder dan file project ke repositori Github.
