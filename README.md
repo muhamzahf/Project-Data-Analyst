@@ -36,13 +36,12 @@ Repositori Submission ini bersi project data analytics.
   - Membuat komponen filter pada dashboard
   - Lengkapi dashboard dengan berbagai visualisasi data
 
-## 3. Memulai `notebook.ipynb`
+## 3. Memulai `main_submission.ipynb`
 1. Buka IDE favorit Anda seperti Jupyter Notebook atau Google Colaboratory.
 2. Buat Buku Catatan Baru.
-3. Upload file day.csv
-4. Upload dan pilih file berekstensi .ipynb.
-5. Hubungkan ke runtime yang dihosting.
-6. Terakhir, jalankan sel kode.
+3. Upload file day.csv dan pilih file berekstensi .ipynb untuk save file.
+4. Hubungkan ke runtime yang dihosting.
+5. Terakhir, jalankan sel kode.
 
 ## 4. Membuat dashboard streamlit menggunakan Anaconda Navigator dan upload Dashboard.py
 
