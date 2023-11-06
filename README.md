@@ -62,14 +62,7 @@ Repositori Submission ini bersi project data analytics.
    streamlit run Dashboard.py
    ```
 ![Streamlit 1](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/cc00843e-a15a-46f9-b2f8-d4bed750f2b2)
-7. Buat akun dan repository baru di Github, lalu tarik beberapa folder dan file project ke repositori Github.
-8. Jika folder dan file sudah masuk ke repositori Github, click folder Dashboard lalu click file Dashboard.py lalu copy link file url Dashboard.py di github.
-![7](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/f5f5b4f4-b4ed-44d6-95de-9c961240c905)
-9. Buka halaman [Tutorial Streamlit](https://docs.streamlit.io/knowledge-base/tutorials/deploy), lalu click halaman share.streamlit.io, dan buat akun streamlit.
-10. Click _New App_, lalu pilih _Paste GitHub URL_ jika sudah membuat repository di Github, lalu paste link file url Dashboard.py dari Github.
-11. Isi App Url dengan menyesuaikan nama repository, lalu click Deploy!
-![8](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/18a23fe1-42cc-4f3c-aa20-24f41682b496)  
-12. Jika sudah berhasil akan menampilkan [halaman streamlit](https://dashboardpy-muhamzah-project-data-analyst.streamlit.app/) sebagai berikut.
+7. Lalu click[halaman streamlit ini](https://dashboardpy-muhamzah-project-data-analyst.streamlit.app/) jika sudah membuat repository Github dan membuat deployment Streamlit.
 ![Streamlit 5](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/f3ded6c8-8cfc-49af-bc16-53bd4b9eca97)
 ![Streamlit 2](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/302c8a8d-b2c8-468a-984b-66c0cdaebc99)
 ![Streamlit 3](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/102978c3-0648-44c8-8119-669ca84b21a2)
