@@ -49,8 +49,10 @@ Repositori Submission ini bersi project data analytics.
 2. Siapkan aplikasi Anaconda Navigator lalu buat root di Environments dengan nama _streamlit_.
 ![1](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/99f0888d-ca0e-4aaa-b5c7-83c8c50cc2e9)
 ![2](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/c810e536-c5f4-4328-92c7-9819beef7a5c)
+
 3. Setelah dibuat root Envirotmentnya install packages seperti pandas, matplotlib, seaborn dan streamlit.
 ![3](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/18f8c9f4-57d2-45b5-88a9-7dd652fdbcff)
+
 4. Klik button play hijau lalu pilih _open terminal_.
 5. Masuk ke direkori file project **Dashboard.py** lalu install:
     ```
@@ -62,7 +64,8 @@ Repositori Submission ini bersi project data analytics.
    streamlit run Dashboard.py
    ```
 ![Streamlit 1](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/cc00843e-a15a-46f9-b2f8-d4bed750f2b2)
-7. Lalu click[halaman streamlit ini](https://dashboardpy-muhamzah-project-data-analyst.streamlit.app/) jika sudah membuat repository Github dan membuat deployment Streamlit.
+
+7. Lalu click [halaman streamlit ini](https://dashboardpy-muhamzah-project-data-analyst.streamlit.app/) jika sudah membuat repository Github dan membuat deployment Streamlit.
 ![Streamlit 5](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/f3ded6c8-8cfc-49af-bc16-53bd4b9eca97)
 ![Streamlit 2](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/302c8a8d-b2c8-468a-984b-66c0cdaebc99)
 ![Streamlit 3](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/102978c3-0648-44c8-8119-669ca84b21a2)
