@@ -61,7 +61,6 @@ Repositori Submission ini bersi project data analytics.
    ```
    streamlit run Dashboard.py
    ```
-![5](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/771854a8-fdd6-490f-a20a-d7404e30357c)
 ![Streamlit 1](https://github.com/muhamzahf/Project-Data-Analyst/assets/70090797/cc00843e-a15a-46f9-b2f8-d4bed750f2b2)
 7. Buat akun dan repository baru di Github, lalu tarik beberapa folder dan file project ke repositori Github.
 8. Jika folder dan file sudah masuk ke repositori Github, click folder Dashboard lalu click file Dashboard.py lalu copy link file url Dashboard.py di github.
